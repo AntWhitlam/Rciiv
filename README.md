@@ -1,2 +1,2 @@
 # Rciiv
-Blazor CMS
+CMS Blogging Platform
